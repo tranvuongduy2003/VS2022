@@ -1,0 +1,7 @@
+﻿  Bai2.cpp
+D:\VS2022\ThucHanhCongDiemDSA\BAI2\Bai2.cpp(208,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VS2022\ThucHanhCongDiemDSA\BAI2\Bai2.cpp(213,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VS2022\ThucHanhCongDiemDSA\BAI2\Bai2.cpp(221,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VS2022\ThucHanhCongDiemDSA\BAI2\Bai2.cpp(226,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VS2022\ThucHanhCongDiemDSA\BAI2\Bai2.cpp(202,25): warning C4101: 'thuong': unreferenced local variable
+  BAI2.vcxproj -> D:\VS2022\ThucHanhCongDiemDSA\x64\Debug\BAI2.exe

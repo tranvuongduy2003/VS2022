@@ -1,0 +1,4 @@
+﻿  3.cpp
+D:\VS2022\ThiCKDSA\BAI3\3.cpp(110,52): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+D:\VS2022\ThiCKDSA\BAI3\3.cpp(39): warning C4715: 'InitNode': not all control paths return a value
+  BAI3.vcxproj -> D:\VS2022\ThiCKDSA\x64\Debug\BAI3.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS2022\Thuchanh\Thuchanh\Source.cpp(28,13): error C2039: 'tail': is not a member of 'List'
+D:\VS2022\Thuchanh\Thuchanh\Source.cpp(11): message : see declaration of 'List'

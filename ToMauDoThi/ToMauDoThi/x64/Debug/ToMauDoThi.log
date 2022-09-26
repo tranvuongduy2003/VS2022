@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\VS2022\ToMauDoThi\ToMauDoThi\Source.cpp(32): warning C4715: 'Graph::operator[]': not all control paths return a value
+D:\VS2022\ToMauDoThi\ToMauDoThi\Source.cpp(52): warning C4715: 'Visited::operator[]': not all control paths return a value
+  ToMauDoThi.vcxproj -> D:\VS2022\ToMauDoThi\x64\Debug\ToMauDoThi.exe
